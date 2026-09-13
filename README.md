@@ -34,13 +34,13 @@ Período analisado:
 ## Estrutura do projeto
 
 ```text
-projeto-aplicado-i-queimadas/
+analise-queimadas-brasil-2025/
 ├── README.md
-├── docs/
-│   └── etapa-1/
 ├── data/
 │   └── raw/
-├── notebooks/
-├── scripts/
+├── docs/
+│   └── etapa-1/
 ├── figures/
-└── presentation/
+├── notebooks/
+├── presentation/
+└── scripts/
