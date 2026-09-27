@@ -31,6 +31,22 @@ Período analisado:
 
 01/01/2025 a 31/12/2025
 
+## Etapa A2 — Análise Exploratória de Dados
+
+Nesta etapa foi realizada a análise exploratória do conjunto de dados de
+focos de queimadas no Brasil em 2025, utilizando Python.
+
+A análise contempla a verificação da qualidade dos dados, estatísticas
+descritivas, valores ausentes, registros duplicados, valores outliers,
+distribuição temporal e territorial dos registros e análise de variáveis
+ambientais presentes na base.
+
+Foram utilizadas as bibliotecas Pandas, NumPy e Matplotlib.
+
+Notebook da análise:
+
+[`01_analise_exploratoria_queimadas_brasil_2025.ipynb`](notebooks/01_analise_exploratoria_queimadas_brasil_2025.ipynb)
+
 ## Estrutura do projeto
 
 ```text
@@ -42,5 +58,7 @@ analise-queimadas-brasil-2025/
 │   └── etapa-1/
 ├── figures/
 ├── notebooks/
+│   ├── README.md
+│   └── 01_analise_exploratoria_queimadas_brasil_2025.ipynb
 ├── presentation/
 └── scripts/
