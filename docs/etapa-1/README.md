@@ -1,4 +1,4 @@
-# Etapa 1 — A1: Definição do Projeto
+# Etapa 1 - A1: Definição do Projeto
 
 Documento da primeira etapa do Projeto Aplicado I.
 
