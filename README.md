@@ -31,15 +31,19 @@ Período analisado:
 
 01/01/2025 a 31/12/2025
 
-## Etapa A2 — Análise Exploratória de Dados
+## Etapa A2 — Definição do Produto Analítico e Análise Exploratória de Dados
 
-Nesta etapa foi realizada a análise exploratória do conjunto de dados de
-focos de queimadas no Brasil em 2025, utilizando Python.
+Nesta etapa foi definida a proposta analítica do projeto e realizado o
+desenvolvimento da Análise Exploratória de Dados do conjunto de focos de
+queimadas no Brasil em 2025.
 
-A análise contempla a verificação da qualidade dos dados, estatísticas
-descritivas, valores ausentes, registros duplicados, valores outliers,
-distribuição temporal e territorial dos registros e análise de variáveis
-ambientais presentes na base.
+A análise foi desenvolvida em Python e contempla a verificação da qualidade
+dos dados, estatísticas descritivas, valores ausentes, registros duplicados,
+valores outliers, distribuição temporal e territorial dos registros e análise
+das variáveis ambientais presentes na base.
+
+Também foi definido o pipeline de dados utilizado no projeto, desde a obtenção
+e preparação dos dados até a geração dos resultados analíticos.
 
 Foram utilizadas as bibliotecas Pandas, NumPy e Matplotlib.
 
@@ -55,7 +59,11 @@ analise-queimadas-brasil-2025/
 ├── data/
 │   └── raw/
 ├── docs/
-│   └── etapa-1/
+│   ├── etapa-1/
+│   │   └── README.md
+│   └── etapa-2/
+│       ├── README.md
+│       └── A2_projeto_aplicado_I_tiago_francisco_de_paula_ra10764568.pdf
 ├── figures/
 ├── notebooks/
 │   ├── README.md
