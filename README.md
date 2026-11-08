@@ -80,10 +80,14 @@ analise-queimadas-brasil-2025/
 │   └── raw/
 ├── docs/
 │   ├── etapa-1/
-│   │   └── README.md
-│   └── etapa-2/
+│   │   ├── README.md
+│   │   └── A1_projeto_aplicado_I_tiago_francisco_de_paula_ra10764568.pdf
+│   ├── etapa-2/
+│   │   ├── README.md
+│   │   └── A2_projeto_aplicado_I_tiago_francisco_de_paula_ra10764568.pdf
+│   └── etapa-3/
 │       ├── README.md
-│       └── A2_projeto_aplicado_I_tiago_francisco_de_paula_ra10764568.pdf
+│       └── A3_projeto_aplicado_I_tiago_francisco_de_paula_ra10764568.pdf
 ├── figures/
 ├── notebooks/
 │   ├── README.md
