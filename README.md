@@ -51,6 +51,26 @@ Notebook da análise:
 
 [`01_analise_exploratoria_queimadas_brasil_2025.ipynb`](notebooks/01_analise_exploratoria_queimadas_brasil_2025.ipynb)
 
+## Etapa A3 — Data Storytelling
+
+Nesta etapa, os principais resultados obtidos na Análise Exploratória de Dados
+foram selecionados e organizados para a construção do Data Storytelling.
+
+A narrativa foi estruturada considerando o público-alvo, a mensagem central,
+a sequência dos principais resultados e os elementos visuais que serão
+utilizados na apresentação final.
+
+O Data Storytelling foi organizado a partir de três eixos principais:
+quando ocorreu a maior concentração dos registros, onde essa concentração
+foi observada e quais condições ambientais estavam presentes nesses períodos.
+
+Também foi elaborado o roteiro da apresentação, utilizando os principais
+resultados da análise temporal, territorial e ambiental, mantendo o caráter
+exploratório do projeto e sem estabelecer relações de causa e efeito.
+
+O roteiro e o planejamento visual desenvolvidos nesta etapa servirão de base
+para a produção da apresentação final em vídeo.
+
 ## Estrutura do projeto
 
 ```text
@@ -70,3 +90,4 @@ analise-queimadas-brasil-2025/
 │   └── 01_analise_exploratoria_queimadas_brasil_2025.ipynb
 ├── presentation/
 └── scripts/
+```
