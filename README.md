@@ -31,7 +31,13 @@ Período analisado:
 
 01/01/2025 a 31/12/2025
 
-## Etapa A2 — Definição do Produto Analítico e Análise Exploratória de Dados
+## Etapa A1 - Definição do Projeto e dos Dados
+
+Nesta etapa foram definidos o contexto do projeto, o problema de estudo, os objetivos e o conjunto de dados utilizado na análise.
+
+Também foram apresentados a fonte dos dados, os principais metadados do dataset, a organização inicial do repositório no GitHub e o cronograma de desenvolvimento do projeto.
+
+## Etapa A2 - Definição do Produto Analítico e Análise Exploratória de Dados
 
 Nesta etapa foi definida a proposta analítica do projeto e realizado o
 desenvolvimento da Análise Exploratória de Dados do conjunto de focos de
@@ -51,7 +57,7 @@ Notebook da análise:
 
 [`01_analise_exploratoria_queimadas_brasil_2025.ipynb`](notebooks/01_analise_exploratoria_queimadas_brasil_2025.ipynb)
 
-## Etapa A3 — Data Storytelling
+## Etapa A3 - Data Storytelling
 
 Nesta etapa, os principais resultados obtidos na Análise Exploratória de Dados
 foram selecionados e organizados para a construção do Data Storytelling.
